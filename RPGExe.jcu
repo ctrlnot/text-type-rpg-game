@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>RPGExe</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>RPGExe</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\RPGExe.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Setup.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>..\PracticeRPG\src\PracticeRPG.java.sdk</path>
+			<symbols>
+				<symbol>PracticeRPG</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\RPGExe.java.sdk</path>
+			<symbols>
+				<symbol>RPGExe</symbol>
+				<symbol>Setup</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\Setup.java.sdk</path>
+			<symbols>
+				<symbol>Setup</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
